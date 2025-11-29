@@ -42,7 +42,6 @@ We adhere to the principle of data minimization. We only collect data that is ne
 To operate the "Free-to-Play" model (awarding TEBCOINS for interactions), certain data is collected automatically by our third-party partners:
 *   **Device Information:** Device model, operating system version, time zone, and language.
 *   **Identifiers:** Advertising ID (GAID/AAID) and IP address. These are used to validate that you have completed an offer (e.g., "Reach level 5 in Game X") to credit your TEBCOINS.
-*   **Installed Apps (Specific to Offerwalls):** Partners like **Adjoe (PlayTime)** may request permission to detect other installed applications. This is strictly used to track the time you spend in partner games to calculate your rewards. You will be asked for explicit consent before this data is accessed.
 *   **Usage Stats & Installed Apps (Specific to Offerwalls):** Partners like Adjoe (PlayTime) reward you based on the time played in other games. To do this, they require access to your app usage history (Android Usage Access). This data is strictly used to calculate your rewards in real-time. You will be asked for explicit, opt-in consent before this data is accessed.
 
 ## 4. How We Use Your Information
