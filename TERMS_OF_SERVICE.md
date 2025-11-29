@@ -1,6 +1,6 @@
 # Terms of Service for TEBRUS
 
-**Last Updated:** November 28, 2025
+**Last Updated:** November 29, 2025
 
 ## 1. Acceptance of Terms
 
@@ -35,6 +35,10 @@ The App uses a dual-currency system of virtual items.
 *   **Redemption:** Can be redeemed for vouchers/gift cards subject to verification.
 *   **Non-Transferable:** You cannot sell, trade, or transfer TEBREWS to other users.
 
+### C. General Currency Rules
+*   **Inactivity & Expiration:** If an account remains inactive (no login) for a period of six (6) consecutive months, TEBRUS reserves the right to expire and remove all accumulated TEBCOINS and TEBREWS without notice.
+*   **Valuation Changes:*** TEBRUS reserves the right to modify the exchange rate between TEBREWS and real-world  wards at any time without prior notice, based on economic factors or partnership changes.
+
 ## 5. Prediction Rules & Fair Play Integrity
 
 To maintain a fair ecosystem, strict integrity rules apply to all predictions. **TEBRUS reserves the right to invalidate (cancel) any prediction results** in the following cases:
@@ -60,6 +64,7 @@ You may earn TEBCOINS by completing tasks via third-party partners (e.g., PubSca
 *   **External Transactions:** Some third-party tasks may reward you for actions taken in *other* applications (e.g., "Reach Level 10" or "Make a purchase in Game X").
 *   **Disclaimer on Purchases:** **TEBRUS NEVER requires you to spend money.** If you choose to complete a third-party task that involves a purchase in another app, **this is a voluntary transaction between you and that third-party.** TEBRUS is not a party to that transaction and will not issue refunds for purchases made outside of our App.
 *   **Content Liability:** We do not endorse the content of third-party ads (which may include other games or services). Interaction is at your own risk.
+*   **Partner Validation Policy:** TEBRUS credits TEBCOINS only when we receive a valid confirmation and payment from our advertising partners. If a partner (e.g., PubScale) rejects a conversion due to their own fraud checks or tracking issues, TEBRUS bears no liability to credit the user.
 
 ## 7. Anti-Fraud & Conduct
 
