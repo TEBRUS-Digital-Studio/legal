@@ -43,6 +43,7 @@ To operate the "Free-to-Play" model (awarding TEBCOINS for interactions), certai
 *   **Device Information:** Device model, operating system version, time zone, and language.
 *   **Identifiers:** Advertising ID (GAID/AAID) and IP address. These are used to validate that you have completed an offer (e.g., "Reach level 5 in Game X") to credit your TEBCOINS.
 *   **Installed Apps (Specific to Offerwalls):** Partners like **Adjoe (PlayTime)** may request permission to detect other installed applications. This is strictly used to track the time you spend in partner games to calculate your rewards. You will be asked for explicit consent before this data is accessed.
+*   **Usage Stats & Installed Apps (Specific to Offerwalls):** Partners like Adjoe (PlayTime) reward you based on the time played in other games. To do this, they require access to your app usage history (Android Usage Access). This data is strictly used to calculate your rewards in real-time. You will be asked for explicit, opt-in consent before this data is accessed.
 
 ## 4. How We Use Your Information
 
@@ -101,7 +102,7 @@ To exercise these rights, contact us at: `contact@tebrus.co.site`.
 
 ## 10. Security
 
-We value your trust. We use SSL encryption for data transmission and rely on Google's secure infrastructure for authentication. However, no method of transmission over the internet is 100% secure.
+We value your trust. We use SSL encryption for data transmission and rely on **Google and Microsoft's** secure infrastructure for authentication and storage. However, no method of transmission over the internet is 100% secure.
 
 ## 11. Changes to This Privacy Policy
 
@@ -109,7 +110,7 @@ We may update our Privacy Policy. You are advised to review this page periodical
 
 ## 12. Contact Us
 
-If you have any questions about our Privacy Policy or our "Free-to-Play" model, please contact us.
+If you have any questions about our Privacy Policy,  or if you wish to request the deletion of your account, please contact us directly:
 
 *   **Email:** `contact@tebrus.co.site`
 *   **Website:** https://tebrus.co.site
