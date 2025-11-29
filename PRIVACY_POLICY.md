@@ -1,6 +1,6 @@
 # Privacy Policy for TEBRUS
 
-**Last Updated:** November 25, 2025
+**Last Updated:** November 29, 2025
 
 ## 1. Introduction
 
@@ -72,6 +72,8 @@ We work with third-party mediation platforms. These services need your Advertisi
 ### C. Infrastructure
 *   **NEO:** We use NEO to host our professional email services (`contact@tebrus.co.site`).
     *   *Privacy Policy:* https://support.neo.space/hc/en-us/articles/14462505748121-Neo-Privacy-Policy
+*   **Microsoft Azure:** We use Azure (Functions & SQL Database) to securely store your game progress, balance, and      history. All data is encrypted at rest and in transit.
+    *   *Microsoft Privacy Statement:* https://privacy.microsoft.com/en-us/privacystatement
 
 ## 6. Data Retention
 
@@ -81,7 +83,7 @@ We work with third-party mediation platforms. These services need your Advertisi
 
 ## 7. International Data Transfers
 
-The TEBRUS Digital Studio is based in **France**. However, our third-party partners (Google, PubScale) may process data in the United States or other countries. We rely on standard contractual clauses to ensure your data is protected during these transfers.
+The TEBRUS Digital Studio is based in **France**. However, our third-party partners (Google, Microsoft, PubScale...) may process data in the United States or other countries. We rely on standard contractual clauses to ensure your data is protected during these transfers.
 
 ## 8. Your Data Protection Rights (GDPR)
 
