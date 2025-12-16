@@ -42,7 +42,7 @@ We adhere to the principle of data minimization. We only collect data that is ne
 To operate the "Free-to-Play" model (awarding TEBCOINS for interactions), certain data is collected automatically by our third-party partners:
 *   **Device Information:** Device model, operating system version, time zone, and language.
 *   **Identifiers:** Advertising ID (GAID/AAID) and IP address. These are used to validate that you have completed an offer (e.g., "Reach level 5 in Game X") to credit your TEBCOINS.
-*   **Usage Stats & Installed Apps (Specific to Offerwalls):** Partners like Adjoe (PlayTime) reward you based on the time played in other games. To do this, they require access to your app usage history (Android Usage Access). This data is strictly used to calculate your rewards in real-time. You will be asked for explicit, opt-in consent before this data is accessed.
+*   **Usage Stats & Installed Apps (Specific to Offerwalls):** Partners like PlayTimeAds (PlayTime) reward you based on the time played in other games. To do this, they require access to your app usage history (Android Usage Access). This data is strictly used to calculate your rewards in real-time. You will be asked for explicit, opt-in consent before this data is accessed.
 
 ## 4. How We Use Your Information
 
@@ -50,7 +50,7 @@ We use the collected information for the following purposes:
 1.  **Authentication:** To manage your identity via Google OAuth.
 2.  **Game Mechanics:** To track your "TEBCOINS" balance, your prediction history, and your "TEBREWS" earnings.
 3.  **Reward Fulfillment:** To verify your identity and deliver your earned rewards.
-4.  **Monetization:** To display advertisements and offerwalls (via PubScale, Adjoe, etc.) which allow the App to remain free.
+4.  **Monetization:** To display advertisements and offerwalls (via PubScale, PlayTimeAds, etc.) which allow the App to remain free.
 5.  **Fraud Prevention:** To detect cheating, use of bots, or multiple account abuse (which is strictly prohibited).
 6.  **Support:** To answer your inquiries via our NEO email services.
 
@@ -66,7 +66,7 @@ We do not sell your personal data to data brokers. We share data with trusted th
 We work with third-party mediation platforms. These services need your Advertising ID and IP to ensure you are effectively rewarded for your time.
 *   **PubScale:** Used for offerwalls and rewarded ads.
     *   *Privacy Policy:* https://pubscale.com/privacy-policy
-*   **Adjoe / PlayTime:** Used for time-based gaming rewards.
+*   **PlayTimeAds / PlayTime:** Used for time-based gaming rewards.
 *   **AdMob / Google Ads:** (Potential use) To display standard advertisements.
 
 ### C. Infrastructure
