@@ -38,6 +38,7 @@ The App uses a dual-currency system of virtual items.
 ### C. General Currency Rules
 *   **Inactivity & Expiration:** If an account remains inactive (no login) for a period of six (6) consecutive months, TEBRUS reserves the right to expire and remove all accumulated TEBCOINS and TEBREWS without notice.
 *   **Valuation Changes:*** TEBRUS reserves the right to modify the exchange rate between TEBREWS and real-world  wards at any time without prior notice, based on economic factors or partnership changes.
+*   **Negative Balance:** In the event of a chargeback or reversal initiated by a third-party provider (as described in Sec. 7), your TEBCOINS balance may become negative. You must earn enough TEBCOINS to return to a positive balance before being able to redeem any rewards.
 
 ## 5. Prediction Rules & Fair Play Integrity
 
@@ -57,14 +58,15 @@ We prohibit all forms of gameplay abuse intended to bypass the simulation mechan
 
 **Decision Authority:** TEBRUS Digital Studio has the final sole discretion to determine if a user's activity constitutes System Exploitation.
 
-## 6. Third-Party Offers (Offerwalls)
+## 6. Third-Party Offers & Surveys
 
-You may earn TEBCOINS by completing tasks via third-party partners (e.g., PubScale, Adjoe/PlayTime).
+You may earn TEBCOINS by completing tasks, playing games, or answering surveys via third-party partners (e.g., PubScale, PlayTimeAds/PlayTime, TheoremReach).
 
-*   **External Transactions:** Some third-party tasks may reward you for actions taken in *other* applications (e.g., "Reach Level 10" or "Make a purchase in Game X").
-*   **Disclaimer on Purchases:** **TEBRUS NEVER requires you to spend money.** If you choose to complete a third-party task that involves a purchase in another app, **this is a voluntary transaction between you and that third-party.** TEBRUS is not a party to that transaction and will not issue refunds for purchases made outside of our App.
+*   **External Transactions:** Some third-party tasks may reward you for actions taken in other applications (e.g., "Reach Level 10" or "Make a purchase in Game X").
+*   **Survey Disqualifications (Screenouts):** When participating in market research surveys (e.g., via TheoremReach), you acknowledge that you may be disqualified at any stage if your profile does not match the specific demographic criteria required by the researcher. TEBRUS is not responsible for time spent on surveys that result in a disqualification or a partial reward.
+*   **Disclaimer on Purchases:** TEBRUS NEVER requires you to spend money. If you choose to complete a third-party task that involves a purchase in another app, this is a voluntary transaction between you and that third-party. TEBRUS is not a party to that transaction and will not issue refunds for purchases made outside of our App.
 *   **Content Liability:** We do not endorse the content of third-party ads (which may include other games or services). Interaction is at your own risk.
-*   **Partner Validation Policy:** TEBRUS credits TEBCOINS only when we receive a valid confirmation and payment from our advertising partners. If a partner (e.g., PubScale) rejects a conversion due to their own fraud checks or tracking issues, TEBRUS bears no liability to credit the user.
+*   **Partner Validation Policy:** TEBRUS credits TEBCOINS only when we receive a valid confirmation and payment from our advertising partners. If a partner rejects a conversion due to their own fraud checks or tracking issues, TEBRUS bears no liability to credit the user.
 
 ## 7. Anti-Fraud & Conduct
 
@@ -73,8 +75,11 @@ You may earn TEBCOINS by completing tasks via third-party partners (e.g., PubSca
 2.  Use **Emulators** or rooted/jailbroken devices.
 3.  Create **multiple accounts** (Multi-accounting is considered fraud).
 4.  Use bots, scripts, or auto-clickers.
+5.  Submit **False Information** in Surveys: Providing inconsistent answers, speeding through surveys (answering faster than humanly possible), or using fake demographic data is strictly prohibited.
 
-**Consequences:** Violation of these rules will result in an **immediate account suspension** and forfeiture of all unredeemed points.
+**Consequences & Chargebacks:**
+*   **Suspension:** Violation of these rules will result in an **immediate account suspension**.
+*   **Point Revocation (Chargebacks):** You acknowledge that our partners (e.g., TheoremReach) monitor response quality. If a partner issues a "Reversal" or "Chargeback" due to poor quality responses or fraudulent activity detected post-reward, TEBRUS reserves the right to **deduct the corresponding TEBCOINS** from your balance, potentially resulting in a negative balance.
 
 ## 8. Rewards and Payouts
 
