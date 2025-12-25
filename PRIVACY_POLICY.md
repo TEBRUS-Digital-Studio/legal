@@ -35,11 +35,10 @@ We adhere to the principle of data minimization. We only collect data that is ne
     *   Email Address (Required for account recovery and payout communication).
     *   Full Name (as provided by Google).
     *   Profile Picture (Optional, for user interface display).
-*   **Payout Information:** When you exchange "TEBREWS" for rewards, we collect the necessary contact details to deliver the reward (e.g., a valid email address for digital gift cards). **We never ask for credit card numbers or banking passwords.**
-  **Survey & Demographic Data (TheoremReach):**
-When you participate in Rewarded Surveys, you may be asked to provide demographic information (such as gender, postal code, year of birth, employment status, etc.) to qualify for specific surveys.
-*   **Voluntary:** Providing this data is entirely voluntary, but necessary to match you with surveys.
-*   **Processing:** This data is collected directly by our partner TheoremReach within their secure interface. TEBRUS does not store your detailed survey answers on our own servers, but we receive a "User Profile" status to help filter opportunities.
+*   **Payout Information:** When you exchange "TEBREWS" for rewards, we collect the necessary contact details to deliver the reward (e.g., a valid email address for digital gift cards). We never ask for credit card numbers or banking passwords.
+*   **Survey & Demographic Data (TheoremReach):** When you participate in Rewarded Surveys, you may be asked to provide demographic information (such as gender, postal code, year of birth, employment status, etc.) to qualify for specific surveys.
+    *   **Voluntary:** Providing this data is entirely voluntary, but necessary to match you with surveys.
+    *   **Processing:** This data is collected directly by our partner TheoremReach within their secure interface. TEBRUS does not store your detailed survey answers on our own servers, but we receive a "User Profile" status to help filter opportunities.
 *   **Customer Support:** If you contact us via email, we collect your email address and the message content.
 
 ### B. Information Collected Automatically
@@ -90,7 +89,7 @@ We work with third-party mediation platforms. These services need your Advertisi
 
 ## 7. International Data Transfers
 
-The TEBRUS Digital Studio is based in **France**. However, our third-party partners (Google, Microsoft, PubScale...) may process data in the United States or other countries. We rely on standard contractual clauses to ensure your data is protected during these transfers.
+The TEBRUS Digital Studio is based in **France**. However, our third-party partners (Google, Microsoft, PubScale, PlayTimeAds, TheoremReach) may process data in the United States or other countries. We rely on standard contractual clauses to ensure your data is protected during these transfers.
 
 ## 8. Your Data Protection Rights (GDPR)
 
