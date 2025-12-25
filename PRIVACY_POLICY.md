@@ -74,6 +74,9 @@ We work with third-party mediation platforms. These services need your Advertisi
 *   **TheoremReach:** Used for rewarded market research surveys.
 *   **Data Collected:** Demographics, Survey Responses, Device ID.
 *   **Privacy Policy:** https://info.theoremreach.com/privacy-policy/
+*   **Paymentwall:** Used for rewarded offers, tasks, and virtual currency management.
+*   **Data Collected:** User ID (UID), IP Address, Geo-location (for offer availability), and Transaction IDs (for crediting TebCoins).
+*   **Privacy Policy:** https://www.paymentwall.com/en/privacypolicy
 
 ### C. Infrastructure
 *   **NEO:** We use NEO to host our professional email services (`contact@tebrus.co.site`).
