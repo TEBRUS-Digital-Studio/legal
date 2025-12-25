@@ -60,7 +60,7 @@ We prohibit all forms of gameplay abuse intended to bypass the simulation mechan
 
 ## 6. Third-Party Offers & Surveys
 
-You may earn TEBCOINS by completing tasks, playing games, or answering surveys via third-party partners (e.g., PubScale, PlayTimeAds/PlayTime, TheoremReach).
+You may earn TEBCOINS by completing tasks, playing games, or answering surveys via third-party partners (e.g., PubScale, PlayTimeAds/PlayTime, TheoremReach, PaymentWall).
 
 *   **External Transactions:** Some third-party tasks may reward you for actions taken in other applications (e.g., "Reach Level 10" or "Make a purchase in Game X").
 *   **Survey Disqualifications (Screenouts):** When participating in market research surveys (e.g., via TheoremReach), you acknowledge that you may be disqualified at any stage if your profile does not match the specific demographic criteria required by the researcher. TEBRUS is not responsible for time spent on surveys that result in a disqualification or a partial reward.
@@ -81,10 +81,14 @@ You may earn TEBCOINS by completing tasks, playing games, or answering surveys v
 *   **Suspension:** Violation of these rules will result in an **immediate account suspension**.
 *   **Point Revocation (Chargebacks):** You acknowledge that our partners (e.g., TheoremReach) monitor response quality. If a partner issues a "Reversal" or "Chargeback" due to poor quality responses or fraudulent activity detected post-reward, TEBRUS reserves the right to **deduct the corresponding TEBCOINS** from your balance, potentially resulting in a negative balance.
 
-## 8. Rewards and Payouts
-
-*   **Verification:** All redemption requests undergo a security review (up to 7 business days).
-*   **Right to Decline:** We may deny a reward if fraud, system exploitation (as defined in Sec. 5), or breach of terms is detected.
+## 8. Rewards, Payouts, and Refund Policy
+A. **Verification & Payouts**
+All redemption requests undergo a security review (up to 7 business days). We may deny a reward if fraud, system exploitation (as defined in Sec. 5), or breach of terms is detected.
+B. **Refund Policy**
+Since TEBRUS operates on a strictly "Free-to-Play" model where no real money deposits or purchases are allowed:
+1. **No Refunds:** As no goods or services are sold by TEBRUS for fiat currency, there are no refunds, returns, or chargebacks applicable to the Service.
+2. **Third-Party Transactions:** If you voluntarily choose to spend money in a third-party game (e.g., via an Offerwall task to "Make a Purchase"), this transaction is solely between you and the third-party developer. TEBRUS cannot issue refunds for external transactions.
+3. **Offerwall Disputes:** If you believe you completed a task via a partner (e.g., Paymentwall) but were not rewarded, you must contact that partner's support team directly. TEBRUS cannot manually validate third-party completion statuses.
 
 ## 9. Intellectual Property
 
