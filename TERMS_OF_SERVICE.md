@@ -37,7 +37,7 @@ The App uses a dual-currency system of virtual items.
 
 ### C. General Currency Rules
 *   **Inactivity & Expiration:** If an account remains inactive (no login) for a period of six (6) consecutive months, TEBRUS reserves the right to expire and remove all accumulated TEBCOINS and TEBREWS without notice.
-*   **Valuation Changes:*** TEBRUS reserves the right to modify the exchange rate between TEBREWS and real-world  wards at any time without prior notice, based on economic factors or partnership changes.
+*   **Valuation Changes:*** TEBRUS reserves the right to modify the exchange rate between TEBREWS and real-world  rewards at any time without prior notice, based on economic factors or partnership changes.
 *   **Negative Balance:** In the event of a chargeback or reversal initiated by a third-party provider (as described in Sec. 7), your TEBCOINS balance may become negative. You must earn enough TEBCOINS to return to a positive balance before being able to redeem any rewards.
 
 ## 5. Prediction Rules & Fair Play Integrity
