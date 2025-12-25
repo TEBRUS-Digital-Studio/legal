@@ -82,10 +82,12 @@ You may earn TEBCOINS by completing tasks, playing games, or answering surveys v
 *   **Point Revocation (Chargebacks):** You acknowledge that our partners (e.g., TheoremReach) monitor response quality. If a partner issues a "Reversal" or "Chargeback" due to poor quality responses or fraudulent activity detected post-reward, TEBRUS reserves the right to **deduct the corresponding TEBCOINS** from your balance, potentially resulting in a negative balance.
 
 ## 8. Rewards, Payouts, and Refund Policy
-A. **Verification & Payouts**
+**A. Verification & Payouts**
 All redemption requests undergo a security review (up to 7 business days). We may deny a reward if fraud, system exploitation (as defined in Sec. 5), or breach of terms is detected.
-B. **Refund Policy**
+
+**B. Refund Policy**
 Since TEBRUS operates on a strictly "Free-to-Play" model where no real money deposits or purchases are allowed:
+
 1. **No Refunds:** As no goods or services are sold by TEBRUS for fiat currency, there are no refunds, returns, or chargebacks applicable to the Service.
 2. **Third-Party Transactions:** If you voluntarily choose to spend money in a third-party game (e.g., via an Offerwall task to "Make a Purchase"), this transaction is solely between you and the third-party developer. TEBRUS cannot issue refunds for external transactions.
 3. **Offerwall Disputes:** If you believe you completed a task via a partner (e.g., Paymentwall) but were not rewarded, you must contact that partner's support team directly. TEBRUS cannot manually validate third-party completion statuses.
