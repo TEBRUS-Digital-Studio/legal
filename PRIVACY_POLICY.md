@@ -36,6 +36,10 @@ We adhere to the principle of data minimization. We only collect data that is ne
     *   Full Name (as provided by Google).
     *   Profile Picture (Optional, for user interface display).
 *   **Payout Information:** When you exchange "TEBREWS" for rewards, we collect the necessary contact details to deliver the reward (e.g., a valid email address for digital gift cards). **We never ask for credit card numbers or banking passwords.**
+  **Survey & Demographic Data (TheoremReach):**
+When you participate in Rewarded Surveys, you may be asked to provide demographic information (such as gender, postal code, year of birth, employment status, etc.) to qualify for specific surveys.
+*   **Voluntary:** Providing this data is entirely voluntary, but necessary to match you with surveys.
+*   **Processing:** This data is collected directly by our partner TheoremReach within their secure interface. TEBRUS does not store your detailed survey answers on our own servers, but we receive a "User Profile" status to help filter opportunities.
 *   **Customer Support:** If you contact us via email, we collect your email address and the message content.
 
 ### B. Information Collected Automatically
@@ -50,8 +54,8 @@ We use the collected information for the following purposes:
 1.  **Authentication:** To manage your identity via Google OAuth.
 2.  **Game Mechanics:** To track your "TEBCOINS" balance, your prediction history, and your "TEBREWS" earnings.
 3.  **Reward Fulfillment:** To verify your identity and deliver your earned rewards.
-4.  **Monetization:** To display advertisements and offerwalls (via PubScale, PlayTimeAds, etc.) which allow the App to remain free.
-5.  **Fraud Prevention:** To detect cheating, use of bots, or multiple account abuse (which is strictly prohibited).
+4.   **Monetization & Survey Matching:** To display advertisements and **match you with relevant market research surveys** (via TheoremReach) based on your demographic profile.
+5.   **Fraud Prevention & Data Quality:** To detect cheating, use of bots, multiple account abuse, **or bad-faith survey responses (e.g., inconsistent answers)** which may lead to reward reversals.
 6.  **Support:** To answer your inquiries via our NEO email services.
 
 ## 5. Third-Party Services and Data Sharing
@@ -68,6 +72,9 @@ We work with third-party mediation platforms. These services need your Advertisi
     *   *Privacy Policy:* https://pubscale.com/privacy-policy
 *   **PlayTimeAds / PlayTime:** Used for time-based gaming rewards.
 *   **AdMob / Google Ads:** (Potential use) To display standard advertisements.
+*   **TheoremReach:** Used for rewarded market research surveys.
+*   **Data Collected:** Demographics, Survey Responses, Device ID.
+*   **Privacy Policy:** https://info.theoremreach.com/privacy-policy/
 
 ### C. Infrastructure
 *   **NEO:** We use NEO to host our professional email services (`contact@tebrus.co.site`).
