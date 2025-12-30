@@ -36,9 +36,9 @@ We adhere to the principle of data minimization. We only collect data that is ne
     *   Full Name (as provided by Google).
     *   Profile Picture (Optional, for user interface display).
 *   **Payout Information:** When you exchange "TEBREWS" for rewards, we collect the necessary contact details to deliver the reward (e.g., a valid email address for digital gift cards). We never ask for credit card numbers or banking passwords.
-*   **Survey & Demographic Data (TheoremReach):** When you participate in Rewarded Surveys, you may be asked to provide demographic information (such as gender, postal code, year of birth, employment status, etc.) to qualify for specific surveys.
-    *   **Voluntary:** Providing this data is entirely voluntary, but necessary to match you with surveys.
-    *   **Processing:** This data is collected directly by our partner TheoremReach within their secure interface. TEBRUS does not store your detailed survey answers on our own servers, but we receive a "User Profile" status to help filter opportunities.
+*   **Survey & Demographic Data (TheoremReach & BitLabs):** When you participate in Rewarded Surveys via our partners TheoremReach or BitLabs, you may be asked to provide demographic information (such as gender, postal code, year of birth, employment status, etc.) to qualify for specific surveys.
+    *   **Voluntary:** Providing this data is entirely voluntary, but necessary to match you with surveys relevant to your profile.
+    *   **Processing:** This data is collected directly by these partners within their secure interfaces. TEBRUS does not store your detailed survey answers on our own servers, but we may receive a generic "User Profile" status or metadata to help filter opportunities.
 *   **Customer Support:** If you contact us via email, we collect your email address and the message content.
 
 ### B. Information Collected Automatically
@@ -71,12 +71,15 @@ We work with third-party mediation platforms. These services need your Advertisi
     *   *Privacy Policy:* https://pubscale.com/privacy-policy
 *   **PlayTimeAds / PlayTime:** Used for time-based gaming rewards.
 *   **AdMob / Google Ads:** (Potential use) To display standard advertisements.
-*   **TheoremReach:** Used for rewarded market research surveys.
+*   **TheoremReach:** Used for rewarded market research surveys and rewarded tasks.
 *   **Data Collected:** Demographics, Survey Responses, Device ID.
 *   **Privacy Policy:** https://info.theoremreach.com/privacy-policy/
 *   **Paymentwall:** Used for rewarded offers, tasks, and virtual currency management.
 *   **Data Collected:** User ID (UID), IP Address, Geo-location (for offer availability), and Transaction IDs (for crediting TebCoins).
 *   **Privacy Policy:** https://www.paymentwall.com/en/privacypolicy
+*   **BitLabs:** Used for rewarded surveys and offerwalls. BitLabs is a service by Prodege, LLC.
+*   **Data Collected:** Survey Responses, Demographics (Age, Gender, Zip), Device ID.
+*   **Privacy Policy:** https://bitlabs.ai/privacy-policy
 
 ### C. Infrastructure
 *   **NEO:** We use NEO to host our professional email services (`contact@tebrus.co.site`).
