@@ -20,6 +20,7 @@ TEBRUS is a **free-to-play sports prediction simulation**.
 *   **Absolutely No In-App Deposits:** It is technically impossible to deposit real money into the TEBRUS App. There is no "Cashier" or "Deposit" function.
 *   **No Purchase Necessary:** Participation is entirely funded by advertisements and engagement.
 *   **Not a Gambling Operator:** TEBRUS is NOT a sportsbook or a gambling platform. We do not accept wagers of real money. The Service is for entertainment purposes only.
+*   **Platform Disclaimer:** Apple Inc. and Google LLC are NOT sponsors of, nor are they involved in any way with, the contests, predictions, or rewards provided in the TEBRUS App. The rewards are solely provided by TEBRUS Digital Studio.
 
 ## 4. Virtual Currencies
 
@@ -60,8 +61,8 @@ We prohibit all forms of gameplay abuse intended to bypass the simulation mechan
 
 ## 6. Third-Party Offers & Surveys
 
-You may earn TEBCOINS by completing tasks, playing games, or answering surveys via third-party partners (e.g., PubScale, PlayTimeAds/PlayTime, TheoremReach, PaymentWall).
-
+You may earn TEBCOINS by completing tasks, playing games, or answering surveys via third-party partners (e.g., BitLabs, PubScale, PlayTimeAds/PlayTime, TheoremReach, PaymentWall).
+*   **PlayTime Tracking Requirement:** For time-based gaming rewards (PlayTime), you acknowledge that valid tracking permissions (Usage Access) must be enabled on your device. If you deny these permissions or if the tracking fails due to battery saver modes or technical constraints, TEBRUS cannot verify your playtime and is not liable to credit rewards.
 *   **External Transactions:** Some third-party tasks may reward you for actions taken in other applications (e.g., "Reach Level 10" or "Make a purchase in Game X").
 *   **Survey Disqualifications (Screenouts):** When participating in market research surveys (e.g., via TheoremReach), you acknowledge that you may be disqualified at any stage if your profile does not match the specific demographic criteria required by the researcher. TEBRUS is not responsible for time spent on surveys that result in a disqualification or a partial reward.
 *   **Disclaimer on Purchases:** TEBRUS NEVER requires you to spend money. If you choose to complete a third-party task that involves a purchase in another app, this is a voluntary transaction between you and that third-party. TEBRUS is not a party to that transaction and will not issue refunds for purchases made outside of our App.
@@ -76,6 +77,7 @@ You may earn TEBCOINS by completing tasks, playing games, or answering surveys v
 3.  Create **multiple accounts** (Multi-accounting is considered fraud).
 4.  Use bots, scripts, or auto-clickers.
 5.  Submit **False Information** in Surveys: Providing inconsistent answers, speeding through surveys (answering faster than humanly possible), or using fake demographic data is strictly prohibited.
+6.  **Profile Manipulation** (BitLabs/Surveys): You agree to provide truthful demographic information in the initial profilers. Repeatedly changing your profile data (e.g., changing age or gender) to qualify for more surveys is considered fraud and will lead to a ban.
 
 **Consequences & Chargebacks:**
 *   **Suspension:** Violation of these rules will result in an **immediate account suspension**.
