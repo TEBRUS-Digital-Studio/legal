@@ -78,6 +78,8 @@ You may earn TEBCOINS by completing tasks, playing games, or answering surveys v
 4.  Use bots, scripts, or auto-clickers.
 5.  Submit **False Information** in Surveys: Providing inconsistent answers, speeding through surveys (answering faster than humanly possible), or using fake demographic data is strictly prohibited.
 6.  **Profile Manipulation** (BitLabs/Surveys): You agree to provide truthful demographic information in the initial profilers. Repeatedly changing your profile data (e.g., changing age or gender) to qualify for more surveys is considered fraud and will lead to a ban.
+7.  **Account Deletion** and **Bonus Abuse**:
+You have the right to delete your TEBRUS account at any time. If you choose to return to TEBRUS after deleting your account, you are welcome to do so. However, to maintain a fair economy, any new account created by a user who previously deleted their account will not be eligible for any introductory or welcome bonuses (e.g., starting TEBCOINS) and will begin with a zero balance.
 
 **Consequences & Chargebacks:**
 *   **Suspension:** Violation of these rules will result in an **immediate account suspension**.
