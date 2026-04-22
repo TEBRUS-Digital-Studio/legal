@@ -91,7 +91,7 @@ We work with third-party mediation platforms. These services need your Advertisi
 
 *   **Account Data:** Retained as long as your account is active to maintain your TEBCOINS and TEBREWS balances.
 *   **Transaction Records:** Records of rewards sent (Withdrawals) are retained for legal and tax compliance purposes (proof of payouts).
-*   **Deletion:** If you request account deletion, your data will be permanently erased within 30 days, unless a longer retention period is required by law for fraud investigations.
+*   **Deletion:** If you request account deletion, your personal data and gameplay history will be permanently erased. However, to prevent abuse of our reward systems (e.g., repeatedly deleting and recreating accounts to claim welcome bonuses), **we retain an irreversibly anonymized cryptographic hash of your identifier**. This hash cannot be reverse-engineered to identify you, contact you, or restore your account, and is used strictly for fraud prevention under our legitimate interests.
 
 ## 7. International Data Transfers
 
