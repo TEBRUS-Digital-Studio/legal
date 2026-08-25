@@ -61,7 +61,7 @@ We prohibit all forms of gameplay abuse intended to bypass the simulation mechan
 
 ## 6. Third-Party Offers & Surveys
 
-You may earn TEBCOINS by completing tasks, playing games, or answering surveys via third-party partners (e.g., BitLabs, PubScale, PlayTimeAds/PlayTime, TheoremReach, PaymentWall, Appodeal, TapJoy).
+You may earn TEBCOINS by completing tasks, playing games, or answering surveys via third-party partners (e.g., BitLabs, PubScale, PlayTimeAds/PlayTime, TheoremReach, PaymentWall, Appodeal, TapJoy, TimeWall, Polltastic, OfferwallMedia, ClickWall, BitcoTasks, MyLead, OGAds).
 *   **PlayTime Tracking Requirement:** For time-based gaming rewards (PlayTime), you acknowledge that valid tracking permissions (Usage Access) must be enabled on your device. If you deny these permissions or if the tracking fails due to battery saver modes or technical constraints, TEBRUS cannot verify your playtime and is not liable to credit rewards.
 *   **External Transactions:** Some third-party tasks may reward you for engaging with external applications or services based on specific criteria defined by the partner.
 *   **Survey Disqualifications (Screenouts):** When participating in market research surveys (e.g., via TheoremReach), you acknowledge that you may be disqualified at any stage if your profile does not match the specific demographic criteria required by the researcher. TEBRUS is not responsible for time spent on surveys that result in a disqualification or a partial reward.
