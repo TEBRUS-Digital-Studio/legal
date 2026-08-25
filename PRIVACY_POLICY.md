@@ -86,6 +86,27 @@ We work with third-party mediation platforms. These services need your Advertisi
 *   **TapJoy:** Used for offerwalls and rewarded video ads (e.g., downloading games, watching videos, completing offers) to credit TEBCOINS.
 *   **Data Collected:** Advertising ID (GAID), IP Address, Device Information, Offer Completion Status.
 *   **Privacy Policy:** https://home.tapjoy.com/info/about-tapjoy/privacy-policy
+*   **TimeWall:** Used for micro-tasks, surveys, and partner site visits to earn TEBCOINS.
+*   **Data Collected:** User ID, IP Address, Device Information.
+*   **Privacy Policy:** https://timewall.io/privacypolicy
+*   **Polltastic (ayeT-Studios):** Used for rewarded surveys.
+*   **Data Collected:** User ID, Survey Responses, IP Address, Device Information.
+*   **Privacy Policy:** https://www.ayetstudios.com/privacy_policy.htm
+*   **OfferwallMedia:** Used for offerwalls (tasks, surveys, clicks, partner site visits).
+*   **Data Collected:** User ID, IP Address, Device Information.
+*   **Privacy Policy:** https://offerwallmedia.com/page/privacy.html
+*   **ClickWall:** Used for offerwalls and app-install (CPI) offers.
+*   **Data Collected:** User ID, Advertising ID (GAID), IP Address, Device Information.
+*   **Privacy Policy:** https://clickwall.net/page/privacy.php
+*   **BitcoTasks:** Used for offerwalls (quick tasks, surveys, ad clicks).
+*   **Data Collected:** User ID, IP Address, Device Information.
+*   **Privacy Policy:** https://bitcotasks.com/page/privacy-policy.html
+*   **MyLead:** Used for offerwalls (tasks, downloads, surveys).
+*   **Data Collected:** User ID, IP Address, Device Information.
+*   **Privacy Policy:** https://mylead.global/en/privacy_policy_mylead.pdf
+*   **OGAds:** Used for an additional missions offerwall ("Autres missions") accessible from the offer page.
+*   **Data Collected:** IP Address, Device Information.
+*   **Privacy Policy:** https://ogads.com/privacy-policy
 
 ### C. Infrastructure
 *   **NEO:** We use NEO to host our professional email services (`contact@tebrus.co.site`).
