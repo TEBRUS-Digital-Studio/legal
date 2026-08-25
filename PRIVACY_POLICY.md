@@ -80,6 +80,12 @@ We work with third-party mediation platforms. These services need your Advertisi
 *   **BitLabs:** Used for rewarded surveys and offerwalls. BitLabs is a service by Prodege, LLC.
 *   **Data Collected:** Survey Responses, Demographics (Age, Gender, Zip), Device ID.
 *   **Privacy Policy:** https://bitlabs.ai/privacy-policy
+*   **Appodeal (incl. BidMachine):** Used for mediating and serving in-app advertisements (rewarded videos, interstitials, banners) across multiple ad networks.
+*   **Data Collected:** Advertising ID (GAID), IP Address, Device Information.
+*   **Privacy Policy:** https://appodeal.com/privacy-policy/
+*   **TapJoy:** Used for offerwalls and rewarded video ads (e.g., downloading games, watching videos, completing offers) to credit TEBCOINS.
+*   **Data Collected:** Advertising ID (GAID), IP Address, Device Information, Offer Completion Status.
+*   **Privacy Policy:** https://home.tapjoy.com/info/about-tapjoy/privacy-policy
 
 ### C. Infrastructure
 *   **NEO:** We use NEO to host our professional email services (`contact@tebrus.co.site`).
